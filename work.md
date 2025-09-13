@@ -10,7 +10,7 @@ items:
   - title: Reaction Time Datalogger
     image:
       src: /assets/Datalogger Schematic.pdf
-    description: Reaction time (RT) is a common tool for diagnosing mild traumatic brain injury (mTBI), assessed with visual stimuli on a screen and responses via mouse or keyboard. While past studies reported declining human RTs over the last 150 years, recent evidence suggests these findings may be confounded by operating system–level delays meant for user precision. Here, dedicated hardware for measuring reaction time to minimize such errors was developed. Schematics, source code, and a writing sample can be found <a href="https://github.com/huangfrederick/Reaction-Time-Datalogger">here</a>.
+    description: Reaction time (RT) is a common tool for diagnosing mild traumatic brain injury (mTBI), assessed with visual stimuli on a screen and responses via mouse or keyboard. While [past studies[(assets/Woodley et al. 2013.pdf) reported declining human RTs over the last 150 years, recent publications suggest these findings may be confounded by <a href = "https://www.frontiersin.org/journals/human-neuroscience/articles/10.3389/fnhum.2020.509091/full?utm_source=Email_to_authors_&utm_medium=Email&utm_content=T1_11.5e1_author&utm_campaign=Email_publication&field=&journalName=Frontiers_in_Human_Neuroscience&id=509091#B75">operating system–level latencies</a> meant for user precision. Here, dedicated hardware for measuring reaction time to minimize such errors was developed. Schematics, source code, and a writing sample can be found <a href="https://github.com/huangfrederick/Reaction-Time-Datalogger">here</a>.
 ---
 
 Here is the most recent collection of projects I have done lately. Additional details can be found in my CV.
