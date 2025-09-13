@@ -23,3 +23,5 @@ Before this, I earned my B. S. in Biomedical Engineering from the University of 
 </p>
 
   **Address**: in the dental school basement
+  
+  **Interests**: materials science, product development, biosensors and electronics
