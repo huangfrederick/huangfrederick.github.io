@@ -6,7 +6,7 @@ profile_picture:
 ---
 
 <p style='text-align: justify;'>
-Hi, I'm Frederick. I am currently a biomaterials research associate in the Department of Comprehensive Dentistry at the University of Texas Health Science Center at San Antonio. 
+Hi, I'm Frederick. I am currently a biomaterials research associate in the <a href="https://uthscsa.edu/dental/departments/comprehensive-dentistry">Department of Comprehensive Dentistry</a> at the <a href="https://uthscsa.edu">University of Texas Health Science Center at San Antonio</a>.
   
 </p>
 
@@ -18,7 +18,7 @@ My research focuses on developing and characterizing composite materials with an
 
 
 <p style='text-align: justify;'>
-I studied Biomedical Engineering and Chemistry at the University of North Carolina at Chapel Hill (UNC) and North Carolina State University. There, I was previously an engineering intern at UNC Health's Physical Medicine and Rehabilitation and Abrams Research Scholar as part of UNC's Chemical Research Instrumentation Teaching and Core Labs.
+I studied Biomedical Engineering and Chemistry at the <a href = "https://bme.unc.edu">University of North Carolina at Chapel Hill (UNC) and North Carolina State University</a>. There, I was previously an engineering intern at <a href = "https://www.med.unc.edu/phyrehab/">UNC Health's Physical Medicine & Rehabilitation</a> and Abrams Research Scholar as part of UNC's <a href = "https://chem.unc.edu/critcl-main/">Chemical Research Instrumentation Teaching and Core Labs</a>.
   
 </p>
 
@@ -26,5 +26,5 @@ I studied Biomedical Engineering and Chemistry at the University of North Caroli
 
 **Address**: in the dental school basement
 
-**Interests**: materials science, product development, biosensors and electronics
+**Interests**: materials science, product design, biosensors and electronics
 
