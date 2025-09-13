@@ -18,7 +18,7 @@ My research focuses on developing and characterizing composite materials with an
 
 
 <p style='text-align: justify;'>
-Before this, I earned my B. S. in Biomedical Engineering from the University of North Carolina at Chapel Hill (UNC) and North Carolina State University, where I was an engineering intern at UNC Health's Physical Medicine and Rehabilitation and Abrams Research Scholar at UNC's Chemical Research Instrumentation Teaching and Core Labs.
+I studied Biomedical Engineering and Chemistry at the University of North Carolina at Chapel Hill (UNC) and North Carolina State University. There, I was previously an engineering intern at UNC Health's Physical Medicine and Rehabilitation and Abrams Research Scholar as part of UNC's Chemical Research Instrumentation Teaching and Core Labs.
   
 </p>
 
