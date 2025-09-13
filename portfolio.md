@@ -5,7 +5,8 @@ slug: /portfolio
 ---
 ## Portfolio
 
-WIP - nothing here yet.
+Work in progres...
+Check back soon!
 
 <br />
 <br />
