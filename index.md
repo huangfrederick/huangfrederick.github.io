@@ -11,7 +11,7 @@ Hi, I'm Frederick. I am currently a biomaterials research associate in the <a hr
 </p>
 
 <p style='text-align: justify;'>
-My research focuses on developing and characterizing composite materials with antimicrobial surface properties to prevent biofilm anchoring. Prior approaches employed the use of silver nanoparticles, but this shifted as it struggled to mitigate associated toxicity upon wear. Now, current methods are exploring K18 quaternary ammonium silane, an additive commonly found in hand sanitizers and mouthwash.
+My research focuses on the surface chemistry of composite materials with antimicrobial properties, developed and characterized with the purpose of preventing biofilm anchoring and growth on dental tissue. Prior approaches employed the use of silver nanoparticles, but this shifted as it struggled to mitigate associated toxicity upon wear. Now, current methods are exploring K18 quaternary ammonium silane, an FDA cleared additive commonly found in hand sanitizers and mouthwash.
 
 </p>
 
