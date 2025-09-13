@@ -5,9 +5,9 @@ slug: /work
 items:
   - title: My Interest 1
     image:
-      src: /assets/img/work/water.png
+      src: /assets/WirelessControllerSchematic.pdf
       alt: water
-    description: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+    description: this is a project that build a wireless controller.
   - title: My Interest 2
     image:
       src: /assets/img/work/sand.png
