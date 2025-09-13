@@ -16,7 +16,7 @@ header:
     - name: Portfolio
     - name: Presentations
     - name: Teaching
-    #- name: Work
+    - name: Work
     #- name: Blog
 
 footer:
