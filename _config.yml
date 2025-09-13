@@ -1,16 +1,16 @@
 # For technical reasons, this file is *NOT* reloaded automatically when you use
 # 'bundle exec jekyll serve'. If you change this file, please restart the server process.
 
-title: Frederick Huang Portfolio
-url: "https://huangfrederick.github.io"
-baseurl: ""
+title: Frederick Huang # this is what you'll see in browser tab when it's loaded onto a website.
+url: "https://huangfrederick.github.io" # url name
+baseurl: "" / # leave this blank for now unless you want to have subproject sites stemming from the URL
 
-og_image: /assets/img/profile-pic.jpg
+og_image: /assets/img/profile-pic.jpg # this is the repository source for where the profile picture on the landing page is pulled from.
 google_analytics: "UA-121636368-3"
 
 header:
   pages:
-    - name: Home
+    #- name: Home
       slug: /
     - name: CV
     - name: Portfolio
