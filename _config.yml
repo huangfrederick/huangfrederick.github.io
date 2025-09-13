@@ -12,7 +12,11 @@ header:
   pages:
     - name: Home
       slug: /
-    - name: Work
+    - name: CV
+    - name: Portfolio
+    - name: Presentations
+    - name: Teaching
+    #- name: Work
     - name: Blog
 
 footer:
