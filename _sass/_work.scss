@@ -1,18 +1,12 @@
 .work-item {
-  display: flex;
+  clear: both;
+  overflow: hidden;
   padding-bottom: 3em;
-  gap: 20px;
-  align-items: flex-start;
 }
 
 .work-bubble {
-  object-fit: cover;
-  
-  flex: 0 0 100px;
-  
+  float: left;
+  padding-right: 20px;
+  width: 100px;
   height: 100px;
-}
-
-.work-text  {
-  flex: 1;
 }
