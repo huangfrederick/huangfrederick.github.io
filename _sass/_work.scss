@@ -1,15 +1,17 @@
 .work-item {
-  clear: both;
-  overflow: hidden;
+  display: flex;
   padding-bottom: 3em;
-
+  gap: 20px;
+  align-items: center;
+  
   flex-wrap: nowrap;
   white-space: nowrap;
+  overflow-x: auto;
 }
 
 .work-bubble {
   float: none;
-  padding-right: 20px;
+  
   flex: 0 0 auto;
   width: 100px;
   height: 100px;
