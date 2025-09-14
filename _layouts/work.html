@@ -22,6 +22,10 @@
               <strong>{{ item.title }}</strong>
               &mdash;
               {{ item.description }}
+              {% if item.keywords %}
+                <br />
+                <strong>Keywords:</strong>  {{  item.keywords  }}
+              {% endif %}
             </span>
           </div>
           {% endfor %}
