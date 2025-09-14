@@ -2,11 +2,15 @@
   clear: both;
   overflow: hidden;
   padding-bottom: 3em;
+
+  flex-wrap: nowrap;
+  white-space: nowrap;
 }
 
 .work-bubble {
   float: none;
   padding-right: 20px;
+  flex: 0 0 auto;
   width: 100px;
   height: 100px;
 }
