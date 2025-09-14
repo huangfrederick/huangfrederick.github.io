@@ -2,17 +2,17 @@
   display: flex;
   padding-bottom: 3em;
   gap: 20px;
-  align-items: center;
-  
-  flex-wrap: nowrap;
-  white-space: nowrap;
-  overflow-x: auto;
+  align-items: flex-start;
 }
 
 .work-bubble {
-  float: none;
+  object-fit: cover;
   
-  flex: 0 0 auto;
-  width: 100px;
+  flex: 0 0 100px;
+  
   height: 100px;
+}
+
+.work-text  {
+  flex: 1;
 }
