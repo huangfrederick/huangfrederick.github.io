@@ -1,12 +1,16 @@
 .work-item {
-  clear: both;
-  overflow: hidden;
+  display: flex;          /* put image + text in a row */
+  align-items: flex-start; /* align top edges */
+  gap: 20px;              /* space between image and text */
   padding-bottom: 3em;
 }
 
 .work-bubble {
-  float: left;
-  padding-right: 20px;
-  width: 100px;
+  flex: 0 0 100px;        /* fixed 100px width for the image */
   height: 100px;
+  object-fit: cover;      /* optional, keeps image aspect tidy */
+}
+
+.work-text {
+  flex: 1;                /* text takes up the rest of the row */
 }
