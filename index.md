@@ -26,5 +26,5 @@ I studied Biomedical Engineering and Chemistry at the <a href = "https://bme.unc
 
 **Address**: in the dental school basement
 
-**Interests**: materials science, product design, biosensors and electronics
+**Interests**: materials science, regenerative medicine, product design, biosensors/electronics.
 
