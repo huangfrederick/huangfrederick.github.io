@@ -33,7 +33,7 @@ items:
 
   - title: Quality Assurance and Control in Biospecimens
     image:
-      src: "/assets/biospecimens.pdf"
+      src: "/assets/biospecimens.png"
     description: >-
       Unlike DNA, RNA, and proteins, lipids and metabolic products lack a standardized integrity metric
       for quality control in omics research. This R21 project explored how extraction methods affect
