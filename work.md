@@ -45,7 +45,7 @@ items:
 
   - title: Pectus Carinatum Monitoring and Data Collection
     image:
-      src: "/assets/InsulinReceptor.png"
+      src: "/assets/brace.png"
     description: >-
       Pectus carinatum (“pigeon chest”) is a congenital deformity treated primarily with compression
       braces (or surgery in more extreme cases) requiring 12–18 months of therapy and frequent manual
@@ -54,7 +54,7 @@ items:
       upon status quo by developing a system that: (1) monitors brace pressure in real time and (2)
       allows on-the-fly adjustments. Integrating sensors and feedback mechanisms, the design streamlined
       the clinical process and reduced treatment variability to enhance patient outcomes.
-    keywords:
+    keywords: Prototyping, Medical Devices
 
   - title: Insulin Analogs—Ultra Stable, Single Chain, and Rapid Acting?
     image:
