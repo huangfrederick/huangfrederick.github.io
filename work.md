@@ -33,7 +33,7 @@ items:
 
   - title: Quality Assurance and Control in Biospecimens
     image:
-      src: "/assets/Datalogger Schematic.pdf"
+      src: "/assets/biospecimens.pdf"
     description: >-
       Unlike DNA, RNA, and proteins, lipids and metabolic products lack a standardized integrity metric
       for quality control in omics research. This R21 project explored how extraction methods affect
@@ -58,7 +58,7 @@ items:
 
   - title: Insulin Analogs—Ultra Stable, Single Chain, and Rapid Acting?
     image:
-      src: "/assets/biospecimens.png"
+      src: "/assets/InsulinReceptor.png"
     description: >-
       A major challenge in insulin accessibility in resource-poor settings has been its dependence on
       a cold chain. While its pharmacological properties are well studied, only recent advances have
