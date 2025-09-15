@@ -36,12 +36,12 @@ items:
       src: "/assets/lipids.png"
     description: >-
       Unlike DNA, RNA, and proteins, lipids and metabolic products lack a standardized integrity metric
-      for quality control in omics research. This R21 project explored how extraction methods affect
+      for quality control in omics research. This R21 project quantified how extraction methods affect
       phospholipid stability, comparing sonication vs. vortexing and vacuum vs. N₂ gas drying. Vortex
-      mixing and N₂ drying emerged as the most reliable approaches, laying groundwork for SOPs in
+      mixing and N₂ drying emerged as the most reliable pre-analytic approaches in preserving specimen quality, laying groundwork for SOPs in
       future work with neurological applications. Further development will define a lipidomic integrity
       number and build upon Matyash extractions with a penta-omic method.
-    keywords: Liquid Chromatography, MALDI-TOF, LipidSearch
+    keywords: LC-MS, LipidSearch, Bioinformatics, Lipidomics
 
   - title: Pectus Carinatum Monitoring and Data Collection
     image:
