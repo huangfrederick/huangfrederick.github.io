@@ -13,10 +13,9 @@ header:
     - name: Home
       slug: /
     - name: CV
-    - name: Portfolio
+    - name: Work
     - name: Presentations
     - name: Teaching
-    - name: Work
     #- name: Blog
 
 footer:
