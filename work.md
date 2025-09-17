@@ -70,5 +70,6 @@ items:
 ---
 
 Here is the most recent collection of projects I have done lately. Additional details can be found in my CV.
+This page is still a work in progress. Links and documents may not be available just yet.
 <br />
 <br />
