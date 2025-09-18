@@ -5,7 +5,7 @@ slug: /work
 items:
   - title: Review Software Controller
     image:
-      src: "/assets/WirelessControllerSchematic.pdf"
+      src: "/assets/controllerPCB.png"
     description: >-
       This project develops a wireless controller to help medical students navigate
       Anki flashcards during their preclinical training and USMLE preparation. With
