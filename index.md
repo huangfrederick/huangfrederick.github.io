@@ -11,7 +11,7 @@ Hi, I'm Frederick. I am currently a biomaterials research associate in the <a hr
 </p>
 
 <p style='text-align: justify;'>
-My research focuses on the surface chemistry of composite materials with antimicrobial properties, developed and characterized with the purpose of preventing biofilm growth. Current methods are exploring the use of <a href = "https://fitebacdental.com/wp-content/uploads/2021/09/FiteBac-Chemical-K18-Biocompatibility-Letter-x4-EO.pdf"> quaternary ammonium compounds</a>, a class of molecules found in products like <a href = "https://pmc.ncbi.nlm.nih.gov/articles/PMC10210541/">hand sanitizers and algaecides</a>.
+My research focuses on the surface chemistry and mechanics of composite materials with antimicrobial properties, developed and characterized with the purpose of preventing biofilm growth. Current methods are exploring the use of <a href = "https://fitebacdental.com/wp-content/uploads/2021/09/FiteBac-Chemical-K18-Biocompatibility-Letter-x4-EO.pdf"> quaternary ammonium compounds</a>, a class of molecules found in products like <a href = "https://pmc.ncbi.nlm.nih.gov/articles/PMC10210541/">hand sanitizers and algaecides</a>.
 
 </p>
 
