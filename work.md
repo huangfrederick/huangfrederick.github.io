@@ -50,7 +50,7 @@ items:
       Pectus carinatum (“pigeon chest”) is a congenital deformity treated primarily with compression
       braces (or surgery in more extreme cases) requiring 12–18 months of therapy and frequent manual
       recalibration during adolescence to maintain an optimal pressure between 1–3 psi, despite a
-      nominal 9 month timeline. <a href = "/assets/Symposium Poster.pdf">This</a> project applied a systems-level engineering approach to improve
+      nominal 9 month timeline. <a href = "/assets/Symposium Poster .pdf">This</a> project applied a systems-level engineering approach to improve
       upon status quo by developing a system that: (1) monitors brace pressure in real time and (2)
       allows on-the-fly adjustments. Integrating sensors and feedback mechanisms, the design streamlined
       the clinical process and reduced treatment variability to enhance patient outcomes.
@@ -63,7 +63,7 @@ items:
       A major challenge in insulin accessibility in resource-poor settings has been its dependence on
       a cold chain. While its pharmacological properties are well studied, only recent advances have
       produced a thermally stable wildtype analog effective at room temperature. Inspired by natural
-      evolution, this project utilized computational simulations to predict candidate molecules.
+      evolution, <a href = "/assets/singleChainAnalog_Frederick_Huang_CYM2024-Presentation.pptx">this</a> project utilized computational simulations to predict candidate molecules.
       Structural features of venom from fish-hunting cone snails, c. geographus, were integrated into
       the stable insulin analog with aims to modulate its pharmacokinetic profile.
     keywords: PyMOL, DeepMind, Chimera, AutoDock
