@@ -36,7 +36,7 @@ items:
       src: "/assets/lipids.png"
     description: >-
       Unlike DNA, RNA, and proteins, lipids and metabolic products lack a standardized integrity metric
-      for quality control in omics research. [This]({{ '/assets/Symposium Poster.pdf' | relative_url | uri_escape }) R21 project quantified how extraction methods affect
+      for quality control in omics research. <a href = "/assets/Huang_Poster_Abrams.pdf">This</a> R21 project quantified how extraction methods affect
       phospholipid stability, comparing sonication vs. vortexing and vacuum vs. N₂ gas drying. Vortex
       mixing and N₂ drying emerged as the most reliable pre-analytic approaches in preserving specimen quality, laying groundwork for SOPs in
       future work with neurological applications. Further development will define a lipidomic integrity
@@ -50,7 +50,7 @@ items:
       Pectus carinatum (“pigeon chest”) is a congenital deformity treated primarily with compression
       braces (or surgery in more extreme cases) requiring 12–18 months of therapy and frequent manual
       recalibration during adolescence to maintain an optimal pressure between 1–3 psi, despite a
-      nominal 9 month timeline. This [project](assets/"Symposium Poster.pdf") applied a systems-level engineering approach to improve
+      nominal 9 month timeline. <a href = "/assets/Symposium Poster.pdf">This</a> project applied a systems-level engineering approach to improve
       upon status quo by developing a system that: (1) monitors brace pressure in real time and (2)
       allows on-the-fly adjustments. Integrating sensors and feedback mechanisms, the design streamlined
       the clinical process and reduced treatment variability to enhance patient outcomes.
