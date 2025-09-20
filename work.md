@@ -36,7 +36,7 @@ items:
       src: "/assets/lipids.png"
     description: >-
       Unlike DNA, RNA, and proteins, lipids and metabolic products lack a standardized integrity metric
-      for quality control in omics research. [This](assets/"Huang_Poster_Abrams.pdf") R21 project quantified how extraction methods affect
+      for quality control in omics research. [This]({{ '/assets/Symposium Poster.pdf' | relative_url | uri_escape }) R21 project quantified how extraction methods affect
       phospholipid stability, comparing sonication vs. vortexing and vacuum vs. N₂ gas drying. Vortex
       mixing and N₂ drying emerged as the most reliable pre-analytic approaches in preserving specimen quality, laying groundwork for SOPs in
       future work with neurological applications. Further development will define a lipidomic integrity
