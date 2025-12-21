@@ -1,6 +1,6 @@
 ---
 layout: page
-title: submenus
+title: submenus changed
 nav: true
 nav_order: 8
 dropdown: true
@@ -10,4 +10,8 @@ children:
   - title: divider
   - title: blog
     permalink: /blog/
+  - title: blog
+    permalink: /blog/
+  - title: people
+    permalink: /people/
 ---
