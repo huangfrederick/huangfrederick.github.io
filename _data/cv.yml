@@ -3,12 +3,12 @@
   contents:
     - name: Name
       value: Frederick Huang
-    - name: Location
-      value: San Antonio, TX
+    # - name: Location
+    #   value: San Antonio, TX
     - name: Languages
       value: English, Mandarin
     - name: Email
-      value: frederickhuang1@gmail.com
+      value: huangf@uthscsa.edu
     - name: Phone
       value: "+19193609233"
     - name: Website
