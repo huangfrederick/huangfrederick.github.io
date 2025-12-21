@@ -2,18 +2,18 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
+# subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
 
 profile:
   align: right
   image: bio-photo.JPG
   image_circular: false # crops the image to make it circular
- # more_info: >
- #   <p>555 your office number</p>
+  more_info: >
+ #   <p>lost in the dental school basement</p>
  #   <p>123 your address street</p>
- #   <p>Research Triangle Park, NC 12345</p>
+    <p>San Antonio, TX</p>
 
-selected_papers: true # includes a list of papers marked as "selected={true}"
+selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 
 announcements:
@@ -22,13 +22,13 @@ announcements:
   limit: 5 # leave blank to include all the news in the `_news` folder
 
 latest_posts:
-  enabled: true
+  enabled: false
   scrollable: true # adds a vertical scroll bar if there are more than 3 new posts items
   limit: 3 # leave blank to include all the blog posts
 ---
 
 <p style='text-align: justify;'>
-Hi, I'm Frederick. I am currently a biomaterials research associate in the <a href="https://uthscsa.edu/dental/departments/comprehensive-dentistry">Department of Comprehensive Dentistry</a> at the <a href="https://uthscsa.edu">University of Texas Health Science Center at San Antonio</a>.
+Hi, I'm Frederick. I am currently a research technician in the <a href="https://uthscsa.edu/dental/departments/comprehensive-dentistry">Department of Comprehensive Dentistry</a> at the <a href="https://uthscsa.edu">University of Texas Health Science Center at San Antonio</a>.
   
 </p>
 
@@ -44,4 +44,4 @@ I studied Biomedical Engineering and Chemistry at the <a href = "https://bme.unc
   
 </p>
 
-**Interests**: materials science, regenerative medicine, product design, biosensors/electronics.
+**Interests**: materials science, drug delivery/discovery, product design, wearables.
