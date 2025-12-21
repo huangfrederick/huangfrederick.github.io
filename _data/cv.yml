@@ -28,7 +28,7 @@
         #     - Sub-description 1.
         #     - Sub-description 2.
     - title: B. S., magna cum laude, in Biomedical Engineering
-      institution: The North Carolina State Univerisity
+      institution: North Carolina State Univerisity College of Engineering
       year: 2025
       description:
         - Abrams Scholar
@@ -73,23 +73,61 @@
       description:
         - Soft materials and wearable bioelectronics for medical diagnostic and drug delivery applications.
 
-- title: Open Source Projects
+- title: Selected Projects
   type: time_table
   contents:
-    - title: <a href="https://github.com/alshedivat/al-folio">al-folio</a>
-      year: 2015-now
-      description: A beautiful, simple, clean, and responsive Jekyll theme for academics.
+    - title: <a href="https://github.com/huangfrederick/Anki-Remote-Controller">Anki Remote Controller</a>
+      year: 2025
+      description: 
+        - Implemented and deployed 200+ lines of code for a professional school study aid with secure, rapid RF communications.
+        - Keywords: PCB Design, DFM
 
-- title: Honors and Awards
+    - title: Reaction Time Datalogger
+      year: 2025
+      description: 
+        - Metrology based project to investigate calibration among reaction time devices for diagnosing mild traumatic brain injuries.
+        - Keywords: UART, AVR, Reaction Time
+
+    - title: Biospecimen QA/QC in lipidomic extractions
+      year: 2024 - 2025
+      description:
+        - Studied lipid degradation pathways in hibernating bats. Project supported by the Abrams scholarship program.
+
+    - title: Re-imagining treatments for Pectus Carinatum
+      year: 2024 - 2025
+      description:
+        - Developed a chest brace in collaboration with UNC Health PM&R for pectus carinatum patients to give providers real-time feedback following ISO 14971 and 13485 standards.
+        - Altered patient Haller index by an average of 0.2, projecting a 30% decrease in treatment time.
+        - Keywords: Prototyping, clinical engineering
+
+    - title: c. georaphus-inspired insulin analogs
+      year: 2024 - 2024
+      description:
+        - Researched venom properties of fish-hunting cone snails in silico to engineer rapid pharmacokinetic properties into a 57 amino acid long ultra stable single-chain insulin analog.
+        - Tested 15+ candidate molecules for suitable receptor interactions.
+        - Keywords: PyMOL, Chimera, AlphaFold
+
+- title: Selected Honors and Awards
   type: time_table
   contents:
-    - year: 1921
+    - year: 2025
       items:
-        - Nobel Prize in Physics
-        - Matteucci Medal
-    - year: 2029
+        - IPEP Distinguished Scholar - School of Medicine, University of North Carolina at Chapel Hill
+    - year: 2024
       items:
-        - Max Planck Medal
+        - Abrams Scholar - College of Engineering, North Carolina State University
+    - year: 2023
+      items:
+        - College Division I National Champion - USA Ultimate
+    - year: 2022
+      items:
+        - College Division I National Champion - USA Ultimate
+    - year: 2021
+      items:
+        - College Division I National Champion - USA Ultimate
+    - year: 2021
+      items:
+        - AP Scholar with Distinction - CollegeBoard
 
 - title: Academic Interests
   type: nested_list
