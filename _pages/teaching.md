@@ -4,7 +4,7 @@ permalink: /teaching/
 title: teaching
 description: 
 nav: true
-nav_order: 6
+nav_order: 3
 ---
 
 ### At <a href = "https://bme.unc.edu">UNC-Chapel Hill</a>
