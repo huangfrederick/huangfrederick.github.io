@@ -8,10 +8,10 @@ profile:
   align: right
   image: bio-photo.JPG
   image_circular: false # crops the image to make it circular
-  more_info: >
+ # more_info: >
  #   <p>lost in the dental school basement</p>
  #   <p>123 your address street</p>
-    <p>San Antonio, TX</p>
+ #   <p>San Antonio, TX</p>
 
 selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
