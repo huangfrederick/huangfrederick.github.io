@@ -73,20 +73,18 @@
       description:
         - Soft materials and wearable bioelectronics for medical diagnostic and drug delivery applications.
 
-- title: Selected Projects
+- title: Projects
   type: time_table
   contents:
     - title: <a href="https://github.com/huangfrederick/Anki-Remote-Controller">Anki Remote Controller</a>
       year: 2025
       description: 
         - Implemented and deployed 200+ lines of code for a professional school study aid with secure, rapid RF communications.
-        - Keywords: PCB Design, DFM
 
     - title: Reaction Time Datalogger
       year: 2025
       description: 
         - Metrology based project to investigate calibration among reaction time devices for diagnosing mild traumatic brain injuries.
-        - Keywords: UART, AVR, Reaction Time
 
     - title: Biospecimen QA/QC in lipidomic extractions
       year: 2024 - 2025
@@ -98,14 +96,12 @@
       description:
         - Developed a chest brace in collaboration with UNC Health PM&R for pectus carinatum patients to give providers real-time feedback following ISO 14971 and 13485 standards.
         - Altered patient Haller index by an average of 0.2, projecting a 30% decrease in treatment time.
-        - Keywords: Prototyping, clinical engineering
 
     - title: c. georaphus-inspired insulin analogs
-      year: 2024 - 2024
+      year: 2024
       description:
         - Researched venom properties of fish-hunting cone snails in silico to engineer rapid pharmacokinetic properties into a 57 amino acid long ultra stable single-chain insulin analog.
         - Tested 15+ candidate molecules for suitable receptor interactions.
-        - Keywords: PyMOL, Chimera, AlphaFold
 
 - title: Selected Honors and Awards
   type: time_table
@@ -129,19 +125,48 @@
       items:
         - AP Scholar with Distinction - CollegeBoard
 
-- title: Academic Interests
-  type: nested_list
-  contents:
-    - title: Topic 1.
-      items:
-        - Description 1.
-        - Description 2.
-    - title: Topic 2.
-      items:
-        - Description 1.
-        - Description 2.
-
-- title: Other Interests
+- title: Presentations
   type: list
   contents:
-    - <u>Hobbies:</u> Hobby 1, Hobby 2, etc.
+    - Poster (with S. Mathur, K.S. Paye, M.N. Cole, M.J. Gilbert, M.K. Hederick) ”The Brace Check—Novel Data Collection for Monitoring Pectus Carinatum”, Lampe Joint Department of Biomedical Engineering Senior Design Symposium, Raleigh, NC, April 2025.
+    - Poster ”Quality Management in Lipidomic Extractions to Develop a Lipidomic Integrity Number”, UNC-Chapel Hill Undergraduate Research Symposium, Chapel Hill, NC, April 2025.
+
+- titled: Teaching Experience
+  type: neste
+  contents:
+    title: 
+
+- title: Academic Teaching Experience
+  type: nested_list
+  contents:
+    - title: BMME 209 Materials Science of Biomaterials
+      items:
+        - "Enrollment: 37", "Semester: Spring 2025"
+
+- title: Volunteer Experience
+  type: time_table
+  contents:
+    title: Music Instructor
+    year: 2022 - 2025
+    description:
+      - 4+ hours weekly commitment in teaching Galamian-based classical music theory and performance for underserved K-12 students in Chapel Hill-Carrboro City Schools System. 
+      - Musical Empowerment @ UNC-Chapel Hill is an organization that provides music education for 250+ families, serving disadvantaged demographics in the music community.
+
+    title: Executive Officer, UNC Mens Ultimate Blue—Darkside
+    year: 2022 - 2025
+    description:
+      - Contracted sponsor agreements with local businesses and managed a $60,000+ budget from 2023-2025, negotiated 6+ sponsorship deals.
+
+
+- title: Technical Skills
+  type: list
+  contents:
+    - "Prototyping/clinical engineering: Additive and Subtractive Manufacturing, CAD, Microcontrollers, Oscilloscope, PCB Design,"
+    - 'Languages: MATLAB, Python, C++, LaTeX'
+    - 'Software: PyMOL, ImageJ, Onshape, Fusion, AutoCAD, LipidSearch, AutoDock Vina, LabChart, Chimera, ClusPro, Office Suite'
+    - 'Laboratory: Aseptic Technique, Cell Culture and Passaging, TEM, Sterilization'
+
+# - title: Other Interests
+#   type: list
+#   contents:
+#     - <u>Hobbies:</u> Hobby 1, Hobby 2, etc.
