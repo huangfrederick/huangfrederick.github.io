@@ -27,8 +27,21 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+<p style='text-align: justify;'>
+Hi, I'm Frederick. I am currently a biomaterials research associate in the <a href="https://uthscsa.edu/dental/departments/comprehensive-dentistry">Department of Comprehensive Dentistry</a> at the <a href="https://uthscsa.edu">University of Texas Health Science Center at San Antonio</a>.
+  
+</p>
 
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+<p style='text-align: justify;'>
+My research focuses on the surface chemistry and mechanics of composite materials with antimicrobial properties, developed and characterized with the purpose of preventing biofilm growth. Current methods are exploring the use of <a href = "https://fitebacdental.com/wp-content/uploads/2021/09/FiteBac-Chemical-K18-Biocompatibility-Letter-x4-EO.pdf"> quaternary ammonium compounds</a>, a class of molecules found in products like <a href = "https://pmc.ncbi.nlm.nih.gov/articles/PMC10210541/">hand sanitizers and algaecides</a>.
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+</p>
+
+
+
+<p style='text-align: justify;'>
+I studied Biomedical Engineering and Chemistry at the <a href = "https://bme.unc.edu">University of North Carolina at Chapel Hill (UNC) and North Carolina State University</a>. There, I was previously an engineering intern at <a href = "https://www.med.unc.edu/phyrehab/">UNC Health's Physical Medicine & Rehabilitation</a> and Abrams Research Scholar as part of UNC's <a href = "https://chem.unc.edu/critcl-main/">Chemical Research Instrumentation Teaching and Core Labs</a>.
+  
+</p>
+
+**Interests**: materials science, regenerative medicine, product design, biosensors/electronics.
