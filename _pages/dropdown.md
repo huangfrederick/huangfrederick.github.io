@@ -10,8 +10,6 @@ children:
   - title: divider
   - title: blog
     permalink: /blog/
-  - title: blog
-    permalink: /blog/
   - title: people
     permalink: /people/
 ---
