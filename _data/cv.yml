@@ -54,6 +54,13 @@
         - Instructed 30+ undergraduates on composite and polymer synthesis, analysis of material properties, and mechanical testing methods.
         - Led lab sections, graded homework, facilitated review sessions, and proctored exams.
 
+    - title: Clinical Engineering Intern
+      institution: Department of Physical Health and Rehabilitation, UNC School of Medicine
+      year: 2024 - 2025
+      description:
+        - Mapped unmet clinical needs among Pectus carinatum patients with data collection methods for on-the-fly brace calibration. Prototyped device guided with ISO 13485 and 14971 standards.
+        - Simulations projected an altered patient Haller index of 0.2, leading to 30% decrease in treatment timeline.
+
     - title: Project Intern
       institution: Lampe Joint Department of Biomedical Engineering, UNC-Chapel Hill & North Carolina State University
       year: 2024 - 2025
@@ -89,13 +96,12 @@
     - title: Biospecimen QA/QC in lipidomic extractions
       year: 2024 - 2025
       description:
-        - Studied lipid degradation pathways in hibernating bats. Project supported by the Abrams scholarship program.
+        - R21 study to map lipid metabolic pathways in hibernating E. fuscus.
 
     - title: Re-imagining treatments for Pectus Carinatum
       year: 2024 - 2025
       description:
-        - Developed a chest brace in collaboration with UNC Health PM&R for pectus carinatum patients to give providers real-time feedback following ISO 14971 and 13485 standards.
-        - Altered patient Haller index by an average of 0.2, projecting a 30% decrease in treatment time.
+        - Developed a chest brace prototype for UNC Hospital clinicians to address shortcomings in data collection with current standards.
 
     - title: c. geographus-inspired insulin analogs
       year: 2024
