@@ -108,7 +108,7 @@
       description:
         - Conducted computational simulations in PyMOL to engineer rapid pharmacokinetic properties of fish-hunting cone snail venom into a single-chain insulin analog.
         - Tested 15+ energy-minimized drug candidate molecules for suitable receptor binding interactions in Autodock Vina and ClusPro.
-        - Predicted homologous structures from stretomyces FASTA sequences.
+        - Predicted homologous structures from streptomyces FASTA sequences.
 
 - title: Selected Honors and Awards
   type: time_table
