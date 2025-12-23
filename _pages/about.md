@@ -33,14 +33,14 @@ Hi, I'm Frederick. I am currently a research technician in the <a href="https://
 </p>
 
 <p style='text-align: justify;'>
-My research focuses on the surface chemistry and mechanics of composite materials with antimicrobial properties, developed and characterized with the purpose of preventing biofilm growth. Current methods are exploring the use of <a href = "https://fitebacdental.com/wp-content/uploads/2021/09/FiteBac-Chemical-K18-Biocompatibility-Letter-x4-EO.pdf"> quaternary ammonium compounds</a>, a class of molecules found in products like <a href = "https://pmc.ncbi.nlm.nih.gov/articles/PMC10210541/">hand sanitizers and algaecides</a>.
+My research focuses on the surface chemistry and mechanical behavior of composite materials in oral prostheses, developed and characterized with the purpose of preventing biofilm growth. Current methods are exploring the use of <a href = "https://fitebacdental.com/wp-content/uploads/2021/09/FiteBac-Chemical-K18-Biocompatibility-Letter-x4-EO.pdf"> quaternary ammonium compounds</a>, a class of molecules found in products like <a href = "https://pmc.ncbi.nlm.nih.gov/articles/PMC10210541/">hand sanitizers and algaecides</a>.
 
 </p>
 
 
 
 <p style='text-align: justify;'>
-I studied Biomedical Engineering and Chemistry at the <a href = "https://bme.unc.edu">University of North Carolina at Chapel Hill (UNC) and North Carolina State University</a>. There, I was previously an engineering intern at <a href = "https://www.med.unc.edu/phyrehab/">UNC Health's Physical Medicine & Rehabilitation</a> and Abrams Research Scholar as part of UNC's <a href = "https://chem.unc.edu/critcl-main/">Chemical Research Instrumentation Teaching and Core Labs</a>.
+I studied Biomedical Engineering and Chemistry at the <a href = "https://bme.unc.edu">University of North Carolina at Chapel Hill and North Carolina State University</a>. There, I was previously an engineering intern at <a href = "https://www.med.unc.edu/phyrehab/">UNC Health's Physical Medicine & Rehabilitation</a> and Abrams Scholar conducting work at UNC's <a href = "https://chem.unc.edu/critcl-main/">Chemical Research Instrumentation Teaching and Core Labs</a>.
   
 </p>
 
