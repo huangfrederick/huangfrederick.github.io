@@ -17,21 +17,21 @@
 - title: Education
   type: time_table
   contents:
-    - title: B. S., with Distinction, in Biomedical Engineering
+    - title: B. S. in Biomedical Engineering
       institution: The University of North Carolina at Chapel Hill
       year: 2025
       description:
-        - School of Medicine IPEP Distinguished Scholar, Musical Empowerment, Club Ultimate Frisbee
+        # - School of Medicine IPEP Distinguished Scholar, Musical Empowerment, Club Ultimate Frisbee
         # - Description 2.
         # - title: Description 3.
         #   contents:
         #     - Sub-description 1.
         #     - Sub-description 2.
-    - title: B. S., magna cum laude, in Biomedical Engineering
+    - title: B. S. in Biomedical Engineering
       institution: North Carolina State Univerisity College of Engineering
       year: 2025
       description:
-        - Abrams Scholar
+        # - Abrams Scholar
         # - Description 2.
 
 - title: Experience
@@ -58,7 +58,7 @@
       institution: Department of Physical Health and Rehabilitation, UNC School of Medicine
       year: 2024 - 2025
       description:
-        - Mapped unmet clinical needs among Pectus carinatum patients to allow for on-the-fly brace calibration. Prototyped MVP guided by ISO 13485 and 14971 standards.
+        - Mapped unmet clinical needs among Pectus carinatum patients to develop novel on-the-fly brace calibration, prototyping MVP guided by ISO 13485 and 14971.
         - Simulations projected an altered patient Haller index of 0.2, leading to 30% decrease in treatment timeline.
 
     - title: Project Intern
@@ -115,10 +115,10 @@
   contents:
     - year: 2025
       items:
-        - IPEP Distinguished Scholar - School of Medicine, University of North Carolina at Chapel Hill
+        - IPEP Distinguished Scholar - University of North Carolina at Chapel Hill School of Medicine
     - year: 2024
       items:
-        - Abrams Scholar - College of Engineering, North Carolina State University
+        - Abrams Scholar - North Carolina State University College of Engineering
     # - year: 2023
     #   items:
     #     - College Division I National Champion - USA Ultimate
