@@ -58,7 +58,7 @@
       institution: Department of Physical Health and Rehabilitation, UNC School of Medicine
       year: 2024 - 2025
       description:
-        - Mapped unmet clinical needs among Pectus carinatum patients with data collection methods for on-the-fly brace calibration. Prototyped device guided with ISO 13485 and 14971 standards.
+        - Mapped unmet clinical needs among Pectus carinatum patients to allow for on-the-fly brace calibration. Prototyped MVP guided by ISO 13485 and 14971 standards.
         - Simulations projected an altered patient Haller index of 0.2, leading to 30% decrease in treatment timeline.
 
     - title: Project Intern
@@ -75,7 +75,7 @@
         - Nanomaterial characterization and liposome formulation for targeted drug delivery.
 
     - title: Undergraduate Research Assistant
-      institution: The University of North Carolina at Chapel Hill
+      institution: Department of Applied Physical Sciences, The University of North Carolina at Chapel Hill
       year: 2022 - 2023
       description:
         - Soft materials and wearable bioelectronics for medical diagnostic and drug delivery applications.
@@ -119,15 +119,15 @@
     - year: 2024
       items:
         - Abrams Scholar - College of Engineering, North Carolina State University
-    - year: 2023
-      items:
-        - College Division I National Champion - USA Ultimate
-    - year: 2022
-      items:
-        - College Division I National Champion - USA Ultimate
-    - year: 2021
-      items:
-        - College Division I National Champion - USA Ultimate
+    # - year: 2023
+    #   items:
+    #     - College Division I National Champion - USA Ultimate
+    # - year: 2022
+    #   items:
+    #     - College Division I National Champion - USA Ultimate
+    # - year: 2021
+    #   items:
+    #     - College Division I National Champion - USA Ultimate
     - year: 2021
       items:
         - AP Scholar with Distinction - CollegeBoard
