@@ -484,7 +484,7 @@ ninja.data = [{
         title: 'LinkedIn',
         section: 'Socials',
         handler: () => {
-          window.open("https://www.linkedin.com/in/frederick-huang-003846205", "_blank");
+          window.open("https://www.linkedin.com/in/fredericktzujiehuang", "_blank");
         },
       },{
       id: 'light-theme',
