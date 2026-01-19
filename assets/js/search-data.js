@@ -16,13 +16,6 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/projects/";
           },
-        },{id: "nav-cv",
-          title: "CV",
-          description: "Below is a summary of my CV. You can view its entirety as PDF towards the right (last updated 09/2025).",
-          section: "Navigation",
-          handler: () => {
-            window.location.href = "/cv/";
-          },
         },{id: "nav-teaching",
           title: "Teaching",
           description: "",
@@ -36,6 +29,13 @@ ninja.data = [{
           section: "Navigation",
           handler: () => {
             window.location.href = "/presentations/";
+          },
+        },{id: "nav-cv",
+          title: "CV",
+          description: "You can view its entirety as PDF towards the right (last updated 09/2025).",
+          section: "Navigation",
+          handler: () => {
+            window.location.href = "/cv/";
           },
         },{id: "post-a-post-with-plotly-js",
         
@@ -413,19 +413,19 @@ ninja.data = [{
           description: "",
           section: "News",handler: () => {
               window.location.href = "/news/announcement_2/";
-            },},{id: "projects-project-1",
-          title: 'project 1',
-          description: "with background image",
+            },},{id: "projects-anki-wireless-controller",
+          title: 'Anki Wireless Controller',
+          description: "For the med student with separation anxiety from their cards.",
           section: "Projects",handler: () => {
               window.location.href = "/projects/1_project/";
-            },},{id: "projects-project-2",
-          title: 'project 2',
-          description: "a project with a background image and giscus comments",
+            },},{id: "projects-biospecimen-qa-qc-in-lipidomic-extractions",
+          title: 'Biospecimen QA/QC in Lipidomic Extractions',
+          description: "Studying lipid degradation pathways.",
           section: "Projects",handler: () => {
               window.location.href = "/projects/2_project/";
-            },},{id: "projects-project-3-with-very-long-name",
-          title: 'project 3 with very long name',
-          description: "a project that redirects to another website",
+            },},{id: "projects-c-geographus-inspired-insulin-analogs",
+          title: 'C. geographus-inspired Insulin Analogs',
+          description: "Drug canididate molecule discovery and testing.",
           section: "Projects",handler: () => {
               window.location.href = "/projects/3_project/";
             },},{id: "projects-project-4",
@@ -443,14 +443,14 @@ ninja.data = [{
           description: "a project with no image",
           section: "Projects",handler: () => {
               window.location.href = "/projects/6_project/";
-            },},{id: "projects-project-7",
-          title: 'project 7',
-          description: "with background image",
+            },},{id: "projects-reaction-time-datalogger",
+          title: 'Reaction Time Datalogger',
+          description: "A metrology project.",
           section: "Projects",handler: () => {
               window.location.href = "/projects/7_project/";
-            },},{id: "projects-project-8",
-          title: 'project 8',
-          description: "an other project with a background image and giscus comments",
+            },},{id: "projects-reimagining-pectus-carinatum-treatments",
+          title: 'Reimagining Pectus Carinatum Treatments',
+          description: "A clinical engineering experience.",
           section: "Projects",handler: () => {
               window.location.href = "/projects/8_project/";
             },},{id: "projects-project-9",
