@@ -1,11 +1,11 @@
 ---
 layout: page
-title: project 7
-description: with background image
+title: Reaction Time Datalogger
+description: A metrology project.
 img: assets/img/4.jpg
 importance: 1
 category: work
-related_publications: true
+related_publications: false
 ---
 
 Every project has a beautiful feature showcase page.

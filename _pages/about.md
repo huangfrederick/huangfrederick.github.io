@@ -8,10 +8,10 @@ profile:
   align: right
   image: bio-photo.JPG
   image_circular: false # crops the image to make it circular
- # more_info: >
- #   <p>lost in the dental school basement</p>
- #   <p>123 your address street</p>
- #   <p>San Antonio, TX</p>
+  more_info: >
+     <p>2.645DTL,</p>
+     <p>7703 Floyd Curl Dr.</p>
+     <p>San Antonio, TX</p>
 
 selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
@@ -33,15 +33,14 @@ Hi, I'm Frederick. I am currently a research technician in the <a href="https://
 </p>
 
 <p style='text-align: justify;'>
-My research focuses on the surface chemistry and mechanical behavior of composite materials in oral prostheses, developed and characterized with the purpose of preventing biofilm growth. Current methods are exploring the use of <a href = "https://fitebacdental.com/wp-content/uploads/2021/09/FiteBac-Chemical-K18-Biocompatibility-Letter-x4-EO.pdf"> quaternary ammonium compounds</a>, a class of molecules found in products like <a href = "https://pmc.ncbi.nlm.nih.gov/articles/PMC10210541/">hand sanitizers and algaecides</a>.
-
+My research focuses on the surface chemistry and mechanical behavior of composite materials in oral prostheses, developed and characterized with the purpose of preventing biofilm growth. Current methods are exploring the use of quaternary ammonium compounds, a class of molecules found in products like algaecides, as well as nanohydroxyapatite.
 </p>
 
 
 
 <p style='text-align: justify;'>
-I studied Biomedical Engineering and Chemistry at the <a href = "https://bme.unc.edu">University of North Carolina at Chapel Hill and North Carolina State University</a>. There, I was previously an engineering intern at <a href = "https://www.med.unc.edu/phyrehab/">UNC Health's Physical Medicine & Rehabilitation</a> and Abrams Scholar conducting work at UNC's <a href = "https://chem.unc.edu/critcl-main/">Chemical Research Instrumentation Teaching and Core Labs</a>.
+I studied Biomedical Engineering and Chemistry at the <a href = "https://bme.unc.edu">University of North Carolina at Chapel Hill and North Carolina State University</a>. There, I was previously an engineering intern at <a href = "https://www.med.unc.edu/phyrehab/">UNC Health's Physical Medicine & Rehabilitation</a> and Abrams Scholar conducting research at UNC's <a href = "https://chem.unc.edu/critcl-main/">Chemical Research Instrumentation Teaching and Core Labs</a>.
   
 </p>
 
-**Interests**: materials science, drug delivery/discovery, product design, wearables.
+**Interests**: materials science, drug delivery/discovery, tissue engineering, data science, product design.

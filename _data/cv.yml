@@ -6,7 +6,7 @@
     # - name: Location
     #   value: San Antonio, TX
     - name: Languages
-      value: English, Mandarin
+      value: English, Mandarin, Taigi
     - name: Email
       value: huangf@uthscsa.edu
     - name: Phone
@@ -60,7 +60,7 @@
       year: 2024 - 2025
       description:
         - Mapped unmet clinical needs among Pectus carinatum patients to develop novel on-the-fly brace calibration, prototyping MVP guided by ISO 13485 and 14971.
-        - Simulations projected an altered patient Haller index of 0.2, leading to 30% decrease in treatment timeline.
+        - Projected an altered patient Haller index of 0.2, leading to 30% decrease in treatment timeline.
 
     - title: Project Intern
       institution: Lampe Joint Department of Biomedical Engineering, UNC-Chapel Hill & North Carolina State University
@@ -94,24 +94,35 @@
       description: 
         - Metrology based project to investigate calibration among reaction time devices for diagnosing mild traumatic brain injuries.
 
-    - title: Biospecimen QA/QC in lipidomic extractions
+    - title: Biospecimen QA/QC in Lipidomic Extractions
       year: 2024 - 2025
       description:
-        - R21 study to map lipid metabolic pathways in hibernating E. fuscus and Sprague Dawley Rats.
+        - R21 study to map lipid metabolic pathways in hibernating E. fuscus and Sprague Dawley rats.
         - Advised by Jeffrey Macdonald, Ph. D.
 
-    - title: Re-imagining treatments for Pectus Carinatum
+    - title: Re-imagining Treatments for Pectus Carinatum
       year: 2024 - 2025
       description:
         - Developed a chest brace prototype for UNC Hospital clinicians to address shortcomings in data collection with current standards.
 
-    - title: c. geographus-inspired insulin analogs
+    - title: C. geographus-inspired Insulin Analogs
       year: 2024
       description:
         - Conducted computational simulations in PyMOL to engineer rapid pharmacokinetic properties of fish-hunting cone snail venom into a single-chain insulin analog.
         - Tested 15+ energy-minimized drug candidate molecules for suitable receptor binding interactions in Autodock Vina and ClusPro.
         - Predicted homologous structures from streptomyces FASTA sequences.
 
+- title: Licenses and Certifications
+  type: time_table
+  contents:
+    - year: 2025
+      title: Basic Life Support - American Red Cross
+
+    - year: 2024
+      title: Adult/Pediatric CPR and AED - American Red Cross
+
+    - year: 2023
+      title: Onshape Fundamentals - PTC
 - title: Selected Honors and Awards
   type: time_table
   contents:
@@ -120,7 +131,7 @@
         - IPEP Distinguished Scholar - University of North Carolina at Chapel Hill School of Medicine
     - year: 2024
       items:
-        - Abrams Scholar - North Carolina State University College of Engineering
+        - Abrams Scholar - North Carolina State University, College of Engineering
     # - year: 2023
     #   items:
     #     - College Division I National Champion - USA Ultimate
@@ -130,45 +141,48 @@
     # - year: 2021
     #   items:
     #     - College Division I National Champion - USA Ultimate
-    - year: 2021
+    # - year: 2021
+    #   items:
+    #     - AP Scholar with Distinction - CollegeBoard
+
+- title: Presentations
+  type: list
+  contents:
+    - Poster (with S. Mathur, K.S. Paye, M.N. Cole, M.J. Gilbert, M.K. Hederick) ”The Brace Check—Novel Data Collection for Monitoring Pectus Carinatum”, Lampe Joint Department of Biomedical Engineering Senior Design Symposium, Raleigh, NC, April 2025.
+    - Poster ”Quality Management in Lipidomic Extractions to Develop a Lipidomic Integrity Number”, UNC-Chapel Hill Undergraduate Research Symposium, Chapel Hill, NC, April 2025.
+
+- title: Academic Teaching Experience
+  type: nested_list
+  contents:
+    - title: BMME 209 Materials Science of Biomaterials
       items:
-        - AP Scholar with Distinction - CollegeBoard
+        - "Enrollment: 37, Semester: SP2025, Type: Ugrad"
 
-# - title: Presentations
-#   type: list
-#   contents:
-#     - Poster (with S. Mathur, K.S. Paye, M.N. Cole, M.J. Gilbert, M.K. Hederick) ”The Brace Check—Novel Data Collection for Monitoring Pectus Carinatum”, Lampe Joint Department of Biomedical Engineering Senior Design Symposium, Raleigh, NC, April 2025.
-#     - Poster ”Quality Management in Lipidomic Extractions to Develop a Lipidomic Integrity Number”, UNC-Chapel Hill Undergraduate Research Symposium, Chapel Hill, NC, April 2025.
+- title: Volunteer Experience
+  type: time_table
+  contents:
+  - title: Music Instructor
+    institution: Musical Empowerment 
+    year: 2022 - 2025
+    description:
+      - 4+ hours weekly commitment to teaching Galamian-based classical music theory and performance for underserved K-12 students in Chapel Hill-Carrboro City Schools System. 
+      - Musical Empowerment @ UNC-Chapel Hill is an organization that provides music education for 140+ families, serving disadvantaged demographics in the music community.
 
-# - title: Academic Teaching Experience
-#   type: nested_list
-#   contents:
-#     - title: BMME 209 Materials Science of Biomaterials
-#       items:
-#         - "Enrollment: 37", "Semester: Spring 2025"
-
-# - title: Volunteer Experience
-#   type: time_table
-#   contents:
-#     title: Music Instructor
-#     year: 2022 - 2025
-#     description:
-#       - 4+ hours weekly commitment in teaching Galamian-based classical music theory and performance for underserved K-12 students in Chapel Hill-Carrboro City Schools System. 
-#       - Musical Empowerment @ UNC-Chapel Hill is an organization that provides music education for 250+ families, serving disadvantaged demographics in the music community.
-
-#     title: Executive Officer, UNC Mens Ultimate Blue—Darkside
-#     year: 2022 - 2025
-#     description:
-#       - Contracted sponsor agreements with local businesses and managed a $60,000+ budget from 2023-2025, negotiated 6+ sponsorship deals.
+  - title: Executive Officer
+    institution: UNC Mens Ultimate Blue—Darkside
+    year: 2022 - 2025
+    description:
+      - Contracted sponsor agreements with local businesses and managed a $60,000+ budget from 2023-2025, negotiated 6+ sponsorship deals for non-dilutive funding.
 
 
-# - title: Technical Skills
-#   type: list
-#   contents:
-#     - "Prototyping/clinical engineering: Additive and Subtractive Manufacturing, CAD, Microcontrollers, Oscilloscope, PCB Design,"
-#     - 'Languages: MATLAB, Python, C++, LaTeX'
-#     - 'Software: PyMOL, ImageJ, Onshape, Fusion, AutoCAD, LipidSearch, AutoDock Vina, LabChart, Chimera, ClusPro, Office Suite'
-#     - 'Laboratory: Aseptic Technique, Cell Culture and Passaging, TEM, Sterilization'
+- title: Technical Skills
+  type: list
+  contents:
+    - "Prototyping/Clinical Engineering - Additive and Subtractive Manufacturing, CAD, Microcontrollers, Oscilloscope, PCB Design,"
+    - 'Languages - Python, C++, MATLAB'
+    - 'Packages - NumPy, pandas, sklearn, Seaborn, Matplotlib, BeautifulSoup, requests, PlatformIO'
+    - 'Software - PyMOL, ImageJ, Onshape, Fusion 360, AutoCAD, LipidSearch, AutoDock Vina, LabChart, Chimera, ClusPro, Office Suite'
+    - 'Laboratory - Aseptic Technique, Cell Culture and Passaging, TEM, Sterilization'
 
 # - title: Other Interests
 #   type: list
