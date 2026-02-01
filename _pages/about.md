@@ -7,7 +7,7 @@ permalink: /
 profile:
   align: right
   image: bio-photo.JPG
-  image_circular: false # crops the image to make it circular
+  image_circular: False # crops the image to make it circular
   more_info: >
      <p>2.645DTL,</p>
      <p>7703 Floyd Curl Dr.</p>
@@ -17,7 +17,7 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 
 announcements:
-  enabled: true # includes a list of news items
+  enabled: false # includes a list of news items
   scrollable: true # adds a vertical scroll bar if there are more than 3 news items
   limit: 5 # leave blank to include all the news in the `_news` folder
 
@@ -33,7 +33,7 @@ Hi, I'm Frederick. I am currently a research technician in the <a href="https://
 </p>
 
 <p style='text-align: justify;'>
-My research focuses on the surface chemistry and mechanical behavior of composite materials in oral prostheses, developed and characterized with the purpose of preventing biofilm growth. Current methods are exploring the use of quaternary ammonium compounds, a class of molecules found in products like algaecides, as well as nanohydroxyapatite.
+My current work focuses on the surface chemistry and mechanical behavior of dental composite materials, developed and characterized with the purpose of preventing biofilm growth. Current methods are exploring the use of quaternary ammonium compounds, a class of molecules found in products such as algaecides.
 </p>
 
 
@@ -43,4 +43,4 @@ I studied Biomedical Engineering and Chemistry at the <a href = "https://bme.unc
   
 </p>
 
-**Interests**: materials science, drug delivery/discovery, tissue engineering, data science, product design.
+**Interests**: drug delivery, tissue engineering, data science, circuit design/microprocessors.

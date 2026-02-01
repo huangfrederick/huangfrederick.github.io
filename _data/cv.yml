@@ -28,7 +28,7 @@
         #     - Sub-description 1.
         #     - Sub-description 2.
     - title: B. S. in Biomedical Engineering
-      institution: North Carolina State University College of Engineering
+      institution: North Carolina State University, College of Engineering
       year: 2025
       description:
         # - Abrams Scholar
@@ -41,8 +41,8 @@
       institution: Center for Regenerative Sciences, University of Texas Health Science Center at San Antonio
       year: 2025 - present
       description:
-        - Development and testing of composite materials for oral protheses.
-        - Advised by Kyumin Whang, Ph. D.
+        - Development and testing of oral composite materials for prosthetic applications.
+        - Advised by Cori Ballard, D.D.S. and Kyumin Whang, Ph. D.
         # - Description 2.
         # - title: Description 3.
         #   contents:
@@ -162,27 +162,28 @@
   type: time_table
   contents:
   - title: Music Instructor
-    institution: Musical Empowerment 
+    institution: <a href = "https://musical-empowerment.org/chapters/the-university-of-north-carolina-at-chapel-hill">Musical Empowerment</a> 
     year: 2022 - 2025
     description:
       - 4+ hours weekly commitment to teaching Galamian-based classical music theory and performance for underserved K-12 students in Chapel Hill-Carrboro City Schools System. 
       - Musical Empowerment @ UNC-Chapel Hill is an organization that provides music education for 140+ families, serving disadvantaged demographics in the music community.
 
   - title: Executive Officer
-    institution: UNC Mens Ultimate Blue—Darkside
+    institution: <a href = "https://uncdarkside.com">UNC Mens Ultimate Blue—Darkside</a>
     year: 2022 - 2025
     description:
       - Contracted sponsor agreements with local businesses and managed a $60,000+ budget from 2023-2025, negotiated 6+ sponsorship deals for non-dilutive funding.
+      - Led efforts with <a href = "https://www.triangleultimate.org">Triangle Ultimate</a> to establish one of the <a href = "https://ultiworld.com/2022/12/13/12-days-of-college-ultimate-two-first-time-hbcu-teams">first active HBCU ultimate frisbee clubs</a> in North America.
 
 
 - title: Technical Skills
   type: list
   contents:
-    - "Prototyping/Clinical Engineering - Additive and Subtractive Manufacturing, CAD, Microcontrollers, Oscilloscope, PCB Design,"
-    - 'Languages - Python, C++, MATLAB'
+    - "Prototyping/Clinical Engineering - Additive and Subtractive Manufacturing, CAD, Microcontrollers, PCB Design,"
+    - 'Languages - Python, C++, MATLAB, SQL'
     - 'Packages - NumPy, pandas, sklearn, Seaborn, Matplotlib, BeautifulSoup, requests, PlatformIO'
     - 'Software - PyMOL, ImageJ, Onshape, Fusion 360, AutoCAD, LipidSearch, AutoDock Vina, LabChart, Chimera, ClusPro, Office Suite'
-    - 'Laboratory - Aseptic Technique, Cell Culture and Passaging, TEM, Sterilization'
+    - 'Laboratory - FTIR, Contact Angle Goniometer, Polymer/Composite Synthesis, Aseptic Technique, SEM'
 
 # - title: Other Interests
 #   type: list
