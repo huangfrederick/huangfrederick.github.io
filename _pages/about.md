@@ -33,7 +33,7 @@ Hi, I'm Frederick. I am currently a research technician in the <a href="https://
 </p>
 
 <p style='text-align: justify;'>
-My current work focuses on the surface chemistry and mechanical behavior of dental composite materials, developed and characterized with the purpose of preventing biofilm growth. Current methods are exploring the use of quaternary ammonium compounds, a class of molecules found in products such as algaecides.
+My current work focuses on the surface chemistry and mechanical behavior of dental composite materials and adhesives, developed and characterized with the purpose of preventing biofilm growth. Current methods are exploring the use of quaternary ammonium compounds, a class of molecules found in products such as algaecides.
 </p>
 
 

@@ -115,7 +115,10 @@
 - title: Licenses and Certifications
   type: time_table
   contents:
-    - year: 2025
+    # - year: 2026
+    #   title: IBM Data Science Professional Certificate
+
+    - year: 2026
       title: Basic Life Support - American Red Cross
 
     - year: 2024
