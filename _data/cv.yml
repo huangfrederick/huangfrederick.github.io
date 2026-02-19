@@ -41,7 +41,10 @@
       institution: Center for Regenerative Sciences, University of Texas Health Science Center at San Antonio
       year: 2025 - present
       description:
-        - Development and testing of oral composite materials for prosthetic applications.
+        - Owned composite development, fabrication, and data analysis workflows.
+        - Wrote custom software to process CIELAB color grading data and employ statistical models for validating 120+ experimental composite materials.
+        - Managed 2 core facilities for used for medical and dental research within South Texas Medical Center.
+        - Implemented 4+ photoinitiator blends to enhance performance in polymer matrices and train novel machine learning models in predicting mechanical behavior.
         - Advised by Cori Ballard, D.D.S. and Kyumin Whang, Ph. D.
         # - Description 2.
         # - title: Description 3.
@@ -115,8 +118,8 @@
 - title: Licenses and Certifications
   type: time_table
   contents:
-    # - year: 2026
-    #   title: IBM Data Science Professional Certificate
+    - year: 2026
+      title: IBM Data Science Professional Certificate
 
     - year: 2026
       title: Basic Life Support - American Red Cross
