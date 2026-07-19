@@ -1,11 +1,17 @@
 ---
 layout: page
-title: project 4
+title: Development of a Remineralizing and Antiomicrobial Composite using K18-Isobornyl Acrylate and Nanohydroxyapatite
 description: another without an image
 img:
 importance: 3
 category: fun
 ---
+
+Dental caries are the the most prominent type of chronic disease involving permanent teeth, affecting an estimated 2 billion people globally. Dental amalgam restorations have been considered to the gold standard in treating caries since the 19th century. In recent years, global organizations such as the International Association for Dental Research (IADR) have called for research on its alternatives to phase out their use due to limitations in patient safety, environmental waste management, aesthetics, and thermal properties. Ongoing efforts in researching and developign amalgam free dental restorations have yet to attain similar rates of clinical longevity. Failures in amalgam free dental restorations, notably resin-based composites, are attributed to bulk fracture, polymerization shrinkage, and marginal gap formation. These shortcomings in resin composites contribute to the proliferation of secondary caries, highlighting the need to develop increasingly robust restoration materials which exhibit traits including but not limited to: increased stiffness, fracture toughness, decreased polymerization shrinkage and stress, and critically, decreased rates of secondary caries.
+
+Prevention of secondary decay is achieved primarily through 2 means: preventing biofilm colonization on tooth surfaces or enhancing remineralization capacity of the host tooth structure. Previous attempts at denying biofilm colonization has involved the use of releasable agents such as fluoride, chlorhexidine, antibiotics, etc. This method of prevention suffers from continued reliance on leachable ions, experiencing exponential decrease in efficacy over time. Since then, developments in the use of contact killing agents such as quaternary ammonium compounds (QACs) or silanes (QAS) achieve similar effects through imbuing contact inhibition surface they are bound to, notably without the need for ion release. In dental applications they have been covalently bound to filler particles that make up the dispersed phase of resin-based composites. This effect is achieved through the long, lipohilic alkyl chain on QACs which penetrate bacterial membranes.
+
+While QACs and nanohydroxyapatite have been validated across several platforms, neither had been evaluated in combination prior this work. The project here address a comparative gap, specifically with a new formulation of QACs (K18 quaternary ammonium silane) by combining two well tested components into a single composite (K18 IBOA and nHA). It was hypothesized that co-incorporating K18-IBOA and nHA into a Bis-GMA resin base will produce a composite with permanent antimicrobial and remineralizing properties without compromising mechanical performance, esthetics, or polymerization shrinkage relative to commercial controls. Beyond composites, the platform is intended as a foundation for translation into cements, liners, and pulp-capping agents later on.
 
 Every project has a beautiful feature showcase page.
 It's easy to include images in a flexible 3-column grid format.

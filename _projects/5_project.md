@@ -1,13 +1,16 @@
 ---
 layout: page
-title: project 5
+title: Experimental Validation of ML-Predicted Dental Composite Formulations
 description: a project with a background image
 img: assets/img/1.jpg
 importance: 3
 category: fun
 ---
+Dental composite development has long relied on resource-intensive trial-and-error experimentation, making it slow and costly to optimize formulations for mechanical performance. Machine learning offers a promising alternative, but its effectiveness is gated by the availability of high-quality training data, a significant gap still present in the dental materials field. A preceding study addressed this by curating a dataset of 230+ commercial composite samples across compositional attributes and performance outcomes, far exceeding prior datasets limited to roughly a dozen samples, and used it to develop a proof-of-concept predictive model. 
 
-Every project has a beautiful feature showcase page.
+My role focuses on experimentally validating that model’s predictions. I physically fabricate composite samples from model-suggested formulations and characterize them through mechanical testing to understand their flexural strength, elastic modulus, and other performance metrics. This is to assess whether predicted properties align with real-world performance. Beyond executing the validation protocol, I independently proposed the photoinitiator systems used across several formulations, including camphorquinone-based systems with varying co-initiator combinations to explore their effect on cure behavior. I also developed the statistical analysis pipeline for the resulting data and designed and built a custom large-area LED curing device that mirrors the light intensity of a clinical curing light, significantly accelerating sample throughput. This work contributes to a longer-term vision of an open-source dental composite database where researchers and manufacturers can predict performance outcomes before fabrication, compressing the development pipeline and enabling more rational composite design.
+
+<!-- Every project has a beautiful feature showcase page.
 It's easy to include images in a flexible 3-column grid format.
 Make your photos 1/3, 2/3, or full width.
 
@@ -18,7 +21,7 @@ To give your project a background in the portfolio page, just add the img tag to
     title: project
     description: a project with a background image
     img: /assets/img/12.jpg
-    ---
+    --- -->
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
