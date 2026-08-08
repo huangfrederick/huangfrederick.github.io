@@ -12,3 +12,11 @@ node_modules/
 vendor
 .idea
 .venv
+cv_generated.html
+cv.yml
+convert_cv.py
+.gitattributes
+.nojekyll
+requirements.txt
+bin/
+

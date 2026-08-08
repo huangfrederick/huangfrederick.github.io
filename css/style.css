@@ -1,0 +1,75 @@
+/* ====================================================
+   BASE PAGE STYLES
+   Applies to the whole page via the <body> tag
+==================================================== */
+body {
+  font-family: sans-serif;
+  /* The standard modern stack is:
+     system-ui, sans-serif
+     This tells the browser "use whatever clean sans-serif font is already
+     installed on this device" — no font download is needed. */
+
+  line-height: 1.6;
+  /* Space between lines of text. Try a number between 1.5 and 1.7 — a
+     unitless number a multiple of the font size */
+
+  color: #6b6b6b;
+  /* Main text color. */
+
+  max-width: 800px;
+  /* Typical blog width is around 650px, spacious is closer to 900px. */
+
+  margin: 0 auto;
+  /* First value (0) = no top/bottom margin. For the second value, type the
+     word "auto" — that's what centers the block horizontally. */
+
+  padding: 2rem;
+  /* Space between your text and the browser edge. Try something like 2rem. */
+}
+
+
+/* ====================================================
+   NAVIGATION LIST
+   Targets the <ul> that sits inside your <nav>
+==================================================== */
+nav ul {
+  list-style: none;
+  /* Removes the bullet points. Type: none */
+
+  display: flex;
+  /* Changes list items from stacking vertically to a horizontal row.
+     Type: flex */
+
+  gap: 1.5rem;
+  /* Space between each nav link. Try 1.5rem. */
+
+  padding: 0rem;
+  /* Lists have default left padding reserved for bullets. */
+
+  margin: 0rem;
+  /* Same idea — remove the list's default margin. */
+}
+
+nav a {
+  text-decoration: none;
+  /* Removes the default underline on links. Type: none */
+
+  color: #6d311c;
+  /* Any custom accent color, as a hex code — e.g. #2a6f97. */
+}
+
+nav a:hover {
+  color: #dd6337;
+  /* What the link color shifts to when the mouse is over it — often a
+     lighter or darker version of the color picked above. */
+}
+
+
+/* ====================================================
+   HEADINGS
+==================================================== */
+h1 {
+  margin-top: 0;
+  /* Removes default top spacing so your name/title sits close to the top
+     of the page. Type: 0 */
+}
