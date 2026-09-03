@@ -73,3 +73,32 @@ h1 {
   /* Removes default top spacing so your name/title sits close to the top
      of the page. Type: 0 */
 }
+
+img {
+  max-width: 100%;
+  height: auto;
+  
+}
+
+.profile_photo {
+   max-width: 200px;
+   border-radius: 60%; 
+   height: 200px;
+   object-fit: cover;
+   display: block;
+   margin: 0 auto;
+   transform: rotate(270deg);
+}
+
+.social_icons {
+   width: 30px;
+   height: 30px;
+   object-fit: contain;
+}
+
+
+.social_links {
+   display: flex;
+   gap: 1rem;
+   justify-content: center;
+}
