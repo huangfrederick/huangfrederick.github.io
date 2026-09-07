@@ -3,7 +3,7 @@
    Applies to the whole page via the <body> tag
 ==================================================== */
 body {
-  font-family: sans-serif;
+  font-family: 'Inter', sans-serif;
   /* The standard modern stack is:
      system-ui, sans-serif
      This tells the browser "use whatever clean sans-serif font is already
@@ -13,8 +13,10 @@ body {
   /* Space between lines of text. Try a number between 1.5 and 1.7 — a
      unitless number a multiple of the font size */
 
-  color: #6b6b6b;
+  color: #575757;
   /* Main text color. */
+
+  background-color: #E0E2DC;
 
   max-width: 800px;
   /* Typical blog width is around 650px, spacious is closer to 900px. */
