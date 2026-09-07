@@ -3,7 +3,7 @@ _site
 .sass-cache
 .jekyll-cache
 .jekyll-metadata
-.DS_store
+.DS_Store
 .ruby-version
 .tweet-cache
 Gemfile.lock
@@ -16,7 +16,5 @@ cv_generated.html
 cv.yml
 convert_cv.py
 .gitattributes
-.nojekyll
 requirements.txt
-bin/
-
+.gitignore
