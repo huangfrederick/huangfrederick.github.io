@@ -1,0 +1,11 @@
+# Files kept in the repo but NOT published to the live site.
+# To bring a page back online, delete its line here and add it to the nav.
+exclude:
+  - biosketch.html
+  - cv.html
+  - experience.html
+  - projects.html
+  - personal.html
+  - llms.html
+  - README.md
+  - LICENSE

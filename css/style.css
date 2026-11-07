@@ -4,10 +4,8 @@
 ==================================================== */
 body {
   font-family: 'Inter', sans-serif;
-  /* The standard modern stack is:
-     system-ui, sans-serif
-     This tells the browser "use whatever clean sans-serif font is already
-     installed on this device" — no font download is needed. */
+  /* Inter is loaded from Google Fonts in each page's <head>.
+     sans-serif is the backup if it can't load. */
 
   line-height: 1.6;
   /* Space between lines of text. Try a number between 1.5 and 1.7 — a
@@ -26,46 +24,65 @@ body {
      word "auto" — that's what centers the block horizontally. */
 
   padding: 0 2rem 2rem;
-  /* Space between your text and the browser edge. */
   /* top = 0 (banner touches the top), left/right = 2rem, bottom = 2rem */
 }
 
 
 /* ====================================================
-   NAVIGATION LIST
-   Targets the <ul> that sits inside your <nav>
+   NAVIGATION BANNER
+   The nav bar is a full-width color strip with the links inside it
 ==================================================== */
-nav ul {
-  list-style: none;
-  /* Removes the bullet points. Type: none */
+nav {
+  background-color: #C77548;
+  /* Banner color. */
 
-  display: flex;
-  /* Changes list items from stacking vertically to a horizontal row.
-     Type: flex */
+  width: 100vw;
+  margin-left: calc(50% - 50vw);
+  /* Full window width, starting at the window's left edge. */
 
-  gap: 1.5rem;
-  /* Space between each nav link. Try 1.5rem. */
+  box-sizing: border-box;
+  /* Count padding as part of the 100vw width, so padding doesn't make
+     the banner wider than the window. */
 
-  padding: 0rem;
-  /* Lists have default left padding reserved for bullets. */
+  padding: 1.5rem calc(50vw - 50%);
+  /* First value = space above and below the links (sets the banner height).
+     Second value = space on the left and right, which lines the links up
+     with your page text instead of the window edge. */
 
-  margin: 0rem;
-  /* Same idea — remove the list's default margin. */
+  margin-bottom: 2rem;
+  /* Space between the banner and the page content. */
 }
 
-nav a {
+nav ul {
+  list-style: none;
+  /* Removes the bullet points. */
+
+  display: flex;
+  /* Puts the links in a horizontal row instead of a vertical list. */
+
+  gap: 1.5rem;
+  /* Space between each nav link. */
+
+  padding: 0;
+  margin: 0;
+  /* Removes the default space lists reserve for bullets. */
+}
+
+nav a,
+nav a:visited {
   text-decoration: none;
-  /* Removes the default underline on links. Type: none */
+  /* Removes the underline. */
 
   color: #ffffff;
-  /* Any custom accent color, as a hex code — e.g. #2a6f97. */
+  /* White links on the banner. Listing nav a:visited keeps them white
+     after someone has clicked them. */
 }
 
 nav a:hover {
   color: #f7c6a3;
-  /* What the link color shifts to when the mouse is over it — often a
-     lighter or darker version of the color picked above. */
+  /* Light peach when the mouse is over a nav link. */
 }
+
 
 
 /* ====================================================
@@ -74,13 +91,12 @@ nav a:hover {
 h1 {
   margin-top: 0;
   /* Removes default top spacing so your name/title sits close to the top
-     of the page. Type: 0 */
+     of the page. */
 }
 
 img {
   max-width: 100%;
   height: auto;
-  
 }
 
 .profile_photo {
@@ -120,34 +136,9 @@ a:visited {
 
 a:hover {
   color: #1d4e6b;
-  /* Darker blue when the mouse is over a link. */
+  /* Blue when the mouse is over a link. */
 }
 
-
-/* ====================================================
-   BANNER
-   The nav bar doubles as a full-width color banner
-==================================================== */
-nav {
-  background-color: #C77548;
-  /* banner color. */
-
-  width: 100vw;
-  margin-left: calc(50% - 50vw);
-  /* full window width, starting at the left edge. */
-
-  box-sizing: border-box;
-  /* Count padding as part of the 100vw width, so padding doesn't make
-     the banner wider than the window. */
-
-  padding: 1.5rem calc(50vw - 50%);
-  /* First value = space above and below the links (sets the banner height).
-     Second value = space on the left and right, which lines the links up
-     with your page text instead of the window edge. */
-
-  margin-bottom: 2rem;
-  /* Space between the banner and the page content. */
-}
 
 html {
   overflow-x: hidden;
