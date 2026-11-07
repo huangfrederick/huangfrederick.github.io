@@ -13,7 +13,7 @@ body {
   /* Space between lines of text. Try a number between 1.5 and 1.7 — a
      unitless number a multiple of the font size */
 
-  color: #575757;
+  color: #688E8F;
   /* Main text color. */
 
   background-color: #ffffff;
@@ -25,8 +25,9 @@ body {
   /* First value (0) = no top/bottom margin. For the second value, type the
      word "auto" — that's what centers the block horizontally. */
 
-  padding: 2rem;
-  /* Space between your text and the browser edge. Try something like 2rem. */
+  padding: 0 2rem 2rem;
+  /* Space between your text and the browser edge. */
+  /* top = 0 (banner touches the top), left/right = 2rem, bottom = 2rem */
 }
 
 
@@ -56,12 +57,12 @@ nav a {
   text-decoration: none;
   /* Removes the default underline on links. Type: none */
 
-  color: #6d311c;
+  color: #ffffff;
   /* Any custom accent color, as a hex code — e.g. #2a6f97. */
 }
 
 nav a:hover {
-  color: #dd6337;
+  color: #f7c6a3;
   /* What the link color shifts to when the mouse is over it — often a
      lighter or darker version of the color picked above. */
 }
@@ -103,4 +104,53 @@ img {
    display: flex;
    gap: 1rem;
    justify-content: center;
+}
+
+
+/* ====================================================
+   TEXT LINKS
+   Links inside your page content (not the nav)
+==================================================== */
+a,
+a:visited {
+  color: #743C28;
+  /* Brown for links. Listing a:visited too stops links turning purple
+     after someone has clicked them. */
+}
+
+a:hover {
+  color: #1d4e6b;
+  /* Darker blue when the mouse is over a link. */
+}
+
+
+/* ====================================================
+   BANNER
+   The nav bar doubles as a full-width color banner
+==================================================== */
+nav {
+  background-color: #C77548;
+  /* banner color. */
+
+  width: 100vw;
+  margin-left: calc(50% - 50vw);
+  /* full window width, starting at the left edge. */
+
+  box-sizing: border-box;
+  /* Count padding as part of the 100vw width, so padding doesn't make
+     the banner wider than the window. */
+
+  padding: 1.5rem calc(50vw - 50%);
+  /* First value = space above and below the links (sets the banner height).
+     Second value = space on the left and right, which lines the links up
+     with your page text instead of the window edge. */
+
+  margin-bottom: 2rem;
+  /* Space between the banner and the page content. */
+}
+
+html {
+  overflow-x: hidden;
+  /* Hides the few extra pixels 100vw can add when a scrollbar is showing,
+     so the page never scrolls sideways. */
 }
